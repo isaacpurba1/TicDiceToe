@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicDiceToe", "TicDiceToe\Ti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainMenu", "MainMenu\MainMenu.csproj", "{0DFFBC7F-30BC-4AA0-BC67-3956617B5518}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TicDiceToeSetup", "TicDiceToeSetup\TicDiceToeSetup.vdproj", "{263C9565-3954-4408-9825-35D1DC406B7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,8 @@ Global
 		{0DFFBC7F-30BC-4AA0-BC67-3956617B5518}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0DFFBC7F-30BC-4AA0-BC67-3956617B5518}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0DFFBC7F-30BC-4AA0-BC67-3956617B5518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{263C9565-3954-4408-9825-35D1DC406B7D}.Debug|Any CPU.ActiveCfg = Debug
+		{263C9565-3954-4408-9825-35D1DC406B7D}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
