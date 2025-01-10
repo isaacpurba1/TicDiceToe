@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicDiceToe", "TicDiceToe\TicDiceToe.csproj", "{EB3D0CBB-8926-4060-AD4B-607258F75DDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainMenu", "MainMenu\MainMenu.csproj", "{0DFFBC7F-30BC-4AA0-BC67-3956617B5518}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB3D0CBB-8926-4060-AD4B-607258F75DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB3D0CBB-8926-4060-AD4B-607258F75DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB3D0CBB-8926-4060-AD4B-607258F75DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB3D0CBB-8926-4060-AD4B-607258F75DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DFFBC7F-30BC-4AA0-BC67-3956617B5518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DFFBC7F-30BC-4AA0-BC67-3956617B5518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DFFBC7F-30BC-4AA0-BC67-3956617B5518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DFFBC7F-30BC-4AA0-BC67-3956617B5518}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB5CFB5D-7C70-4E1E-9A22-0A19B1FB3FC8}
+	EndGlobalSection
+EndGlobal

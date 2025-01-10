@@ -1,0 +1,82 @@
+C:\Users\USER\Documents\OOP\Modif TictacToe\TicDiceToe\TicDiceToe\bin\Debug\TicDiceToe.exe.config
+C:\Users\USER\Documents\OOP\Modif TictacToe\TicDiceToe\TicDiceToe\bin\Debug\TicDiceToe.exe
+C:\Users\USER\Documents\OOP\Modif TictacToe\TicDiceToe\TicDiceToe\bin\Debug\TicDiceToe.pdb
+C:\Users\USER\Documents\OOP\Modif TictacToe\TicDiceToe\TicDiceToe\obj\Debug\TicDiceToe.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\OOP\Modif TictacToe\TicDiceToe\TicDiceToe\obj\Debug\TicDiceToe.Properties.Resources.resources
+C:\Users\USER\Documents\OOP\Modif TictacToe\TicDiceToe\TicDiceToe\obj\Debug\TicDiceToe.csproj.GenerateResource.cache
+C:\Users\USER\Documents\OOP\Modif TictacToe\TicDiceToe\TicDiceToe\obj\Debug\TicDiceToe.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\OOP\Modif TictacToe\TicDiceToe\TicDiceToe\obj\Debug\TicDiceToe.exe
+C:\Users\USER\Documents\OOP\Modif TictacToe\TicDiceToe\TicDiceToe\obj\Debug\TicDiceToe.pdb
+C:\Users\USER\Documents\OOP\Modif TictacToe\TicDiceToe\TicDiceToe\obj\Debug\TicDiceToe.Form1.resources
+D:\Cisco\TicDiceToe\TicDiceToe\obj\Debug\TicDiceToe.csproj.AssemblyReference.cache
+D:\Cisco\TicDiceToe\TicDiceToe\obj\Debug\TicDiceToe.exe
+D:\Cisco\TicDiceToe\TicDiceToe\obj\Debug\TicDiceToe.pdb
+D:\Cisco\TicDiceToe\TicDiceToe\bin\Debug\TicDiceToe.exe.config
+D:\Cisco\TicDiceToe\TicDiceToe\bin\Debug\TicDiceToe.exe
+D:\Cisco\TicDiceToe\TicDiceToe\bin\Debug\TicDiceToe.pdb
+D:\Cisco\TicDiceToe\TicDiceToe\obj\Debug\TicDiceToe.Form1.resources
+D:\Cisco\TicDiceToe\TicDiceToe\obj\Debug\TicDiceToe.Properties.Resources.resources
+D:\Cisco\TicDiceToe\TicDiceToe\obj\Debug\TicDiceToe.csproj.GenerateResource.cache
+D:\Cisco\TicDiceToe\TicDiceToe\obj\Debug\TicDiceToe.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\OOP\Modif TictacToe\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\TicDiceToe.exe.config
+C:\Users\USER\Documents\OOP\Modif TictacToe\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\TicDiceToe.exe
+C:\Users\USER\Documents\OOP\Modif TictacToe\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\TicDiceToe.pdb
+C:\Users\USER\Documents\OOP\Modif TictacToe\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\USER\Documents\OOP\Modif TictacToe\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\NAudio.Asio.dll
+C:\Users\USER\Documents\OOP\Modif TictacToe\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\NAudio.Core.dll
+C:\Users\USER\Documents\OOP\Modif TictacToe\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\NAudio.dll
+C:\Users\USER\Documents\OOP\Modif TictacToe\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\NAudio.Midi.dll
+C:\Users\USER\Documents\OOP\Modif TictacToe\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\NAudio.Wasapi.dll
+C:\Users\USER\Documents\OOP\Modif TictacToe\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\NAudio.WinForms.dll
+C:\Users\USER\Documents\OOP\Modif TictacToe\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\NAudio.WinMM.dll
+C:\Users\USER\Documents\OOP\Modif TictacToe\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\System.Security.AccessControl.dll
+C:\Users\USER\Documents\OOP\Modif TictacToe\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\USER\Documents\OOP\Modif TictacToe\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\USER\Documents\OOP\Modif TictacToe\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\NAudio.xml
+C:\Users\USER\Documents\OOP\Modif TictacToe\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\NAudio.Asio.xml
+C:\Users\USER\Documents\OOP\Modif TictacToe\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\NAudio.Core.xml
+C:\Users\USER\Documents\OOP\Modif TictacToe\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\NAudio.Midi.xml
+C:\Users\USER\Documents\OOP\Modif TictacToe\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\NAudio.Wasapi.xml
+C:\Users\USER\Documents\OOP\Modif TictacToe\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\NAudio.WinForms.xml
+C:\Users\USER\Documents\OOP\Modif TictacToe\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\NAudio.WinMM.xml
+C:\Users\USER\Documents\OOP\Modif TictacToe\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\System.Security.AccessControl.xml
+C:\Users\USER\Documents\OOP\Modif TictacToe\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\USER\Documents\OOP\Modif TictacToe\TicDiceToeEdit1\TicDiceToe\TicDiceToe\obj\Debug\TicDiceToe.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\OOP\Modif TictacToe\TicDiceToeEdit1\TicDiceToe\TicDiceToe\obj\Debug\TicDiceToe.TicDiceToeGame.resources
+C:\Users\USER\Documents\OOP\Modif TictacToe\TicDiceToeEdit1\TicDiceToe\TicDiceToe\obj\Debug\TicDiceToe.Properties.Resources.resources
+C:\Users\USER\Documents\OOP\Modif TictacToe\TicDiceToeEdit1\TicDiceToe\TicDiceToe\obj\Debug\TicDiceToe.csproj.GenerateResource.cache
+C:\Users\USER\Documents\OOP\Modif TictacToe\TicDiceToeEdit1\TicDiceToe\TicDiceToe\obj\Debug\TicDiceToe.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\OOP\Modif TictacToe\TicDiceToeEdit1\TicDiceToe\TicDiceToe\obj\Debug\TicDiceToe.csproj.CopyComplete
+C:\Users\USER\Documents\OOP\Modif TictacToe\TicDiceToeEdit1\TicDiceToe\TicDiceToe\obj\Debug\TicDiceToe.exe
+C:\Users\USER\Documents\OOP\Modif TictacToe\TicDiceToeEdit1\TicDiceToe\TicDiceToe\obj\Debug\TicDiceToe.pdb
+D:\Programming\C#\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\TicDiceToe.exe.config
+D:\Programming\C#\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\TicDiceToe.exe
+D:\Programming\C#\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\TicDiceToe.pdb
+D:\Programming\C#\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\Microsoft.Win32.Registry.dll
+D:\Programming\C#\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\NAudio.Asio.dll
+D:\Programming\C#\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\NAudio.Core.dll
+D:\Programming\C#\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\NAudio.dll
+D:\Programming\C#\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\NAudio.Midi.dll
+D:\Programming\C#\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\NAudio.Wasapi.dll
+D:\Programming\C#\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\NAudio.WinForms.dll
+D:\Programming\C#\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\NAudio.WinMM.dll
+D:\Programming\C#\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\System.Security.AccessControl.dll
+D:\Programming\C#\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\System.Security.Principal.Windows.dll
+D:\Programming\C#\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Programming\C#\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\NAudio.xml
+D:\Programming\C#\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\NAudio.Asio.xml
+D:\Programming\C#\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\NAudio.Core.xml
+D:\Programming\C#\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\NAudio.Midi.xml
+D:\Programming\C#\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\NAudio.Wasapi.xml
+D:\Programming\C#\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\NAudio.WinForms.xml
+D:\Programming\C#\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\NAudio.WinMM.xml
+D:\Programming\C#\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\System.Security.AccessControl.xml
+D:\Programming\C#\TicDiceToeEdit1\TicDiceToe\TicDiceToe\bin\Debug\System.Security.Principal.Windows.xml
+D:\Programming\C#\TicDiceToeEdit1\TicDiceToe\TicDiceToe\obj\Debug\TicDiceToe.csproj.AssemblyReference.cache
+D:\Programming\C#\TicDiceToeEdit1\TicDiceToe\TicDiceToe\obj\Debug\TicDiceToe.TicDiceToeGame.resources
+D:\Programming\C#\TicDiceToeEdit1\TicDiceToe\TicDiceToe\obj\Debug\TicDiceToe.Properties.Resources.resources
+D:\Programming\C#\TicDiceToeEdit1\TicDiceToe\TicDiceToe\obj\Debug\TicDiceToe.csproj.GenerateResource.cache
+D:\Programming\C#\TicDiceToeEdit1\TicDiceToe\TicDiceToe\obj\Debug\TicDiceToe.csproj.CoreCompileInputs.cache
+D:\Programming\C#\TicDiceToeEdit1\TicDiceToe\TicDiceToe\obj\Debug\TicDiceToe.csproj.Up2Date
+D:\Programming\C#\TicDiceToeEdit1\TicDiceToe\TicDiceToe\obj\Debug\TicDiceToe.exe
+D:\Programming\C#\TicDiceToeEdit1\TicDiceToe\TicDiceToe\obj\Debug\TicDiceToe.pdb
